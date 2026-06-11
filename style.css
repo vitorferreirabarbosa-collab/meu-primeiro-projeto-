@@ -5,12 +5,16 @@ h1{
     font-size: 80px;
     color: rgb(0, 0, 0);
     text-align: center;
+    border: 10px groove
+
 }
 p{
     font-size: 60px;
     text-align:center;
+    border: 5px solid;
 }
 img{
 width: 35%;
 margin-left: 630px;
+border: 15px solid;
 }
